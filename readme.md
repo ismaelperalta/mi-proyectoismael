@@ -16,3 +16,24 @@
 
 
 8029ab920a143be17b6a696878b083b14c1b53cd
+
+
+commit 7220441c858df9d78114ded54eef36124bd8d97c (HEAD -> master)
+Author: Ismael <iperaltaperez@gmail.com>
+Date:   Mon Oct 30 16:49:46 2023 +0100
+
+    Añadido readme.md
+
+commit 8029ab920a143be17b6a696878b083b14c1b53cd
+Author: Ismael <iperaltaperez@gmail.com>
+Date:   Mon Oct 30 16:47:54 2023 +0100
+
+    Añadido readme.md
+
+commit 7ad95d9298d6f7136df204dfe06c447947937be3
+Author: Ismael <iperaltaperez@gmail.com>
+Date:   Mon Oct 30 16:14:04 2023 +0100
+
+    Añadido readme.md
+
+    git tag v1.0
