@@ -12,7 +12,8 @@
 
 
 1. 28 Puntos
-2. 28 puntos
+2. 28 Puntos
+3. 26 Puntos
 
 
 8029ab920a143be17b6a696878b083b14c1b53cd
@@ -37,3 +38,29 @@ Date:   Mon Oct 30 16:14:04 2023 +0100
     Añadido readme.md
 
     git tag v1.0
+    7220441 (tag: v1.0) Añadido readme.md
+
+
+    diff --git a/readme.md b/readme.md
+index f58117d..df80476 100644
+--- a/readme.md
++++ b/readme.md
+@@ -12,7 +12,8 @@
+
+
+ 1. 28 Puntos
+-2. 28 puntos
++2. 28 Puntos
++3. 26 Puntos
+
+
+ 8029ab920a143be17b6a696878b083b14c1b53cd
+@@ -36,4 +37,5 @@ Date:   Mon Oct 30 16:14:04 2023 +0100
+
+     Añadido readme.md
+
+-    git tag v1.0
+\ No newline at end of file
++    git tag v1.0
++    7220441 (tag: v1.0) Añadido readme.md
+\ No newline at end of file
