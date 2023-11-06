@@ -1,0 +1,15 @@
+{
+  "name": "mi_proyecto_ismael",
+  "version": "1.0.0",
+  "description": "[La liga española](https://www.marca.com/futbol/primera-division.html?intcmp=MENUPROD&s_kw=primera-division)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
